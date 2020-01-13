@@ -1,6 +1,20 @@
+let currentplayer;
+  currentplayer = "x";
+
+let currentplayer2;
+    currentplayer2 = "O";
+
+let totalnumber;
+  totalnumber = "0";
+
+let booleantype;
+ booleantype = false;
+  
+   function performLogic (buttonid,tileid) {
+     $ (buttonid).hide();
 
 
-
+   }
 
 
 
